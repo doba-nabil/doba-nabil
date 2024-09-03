@@ -1,6 +1,7 @@
 <h1 align="center">Hi there👋, I'm AbdulRahman Nabil</h1>
 <h3 align="center">Fullstack Developer & Php (Laravel) Developer</h3>
 
+- 🔭 I’m currently working on Frontend & PHP Backend developer (Laravel)
 - 🌱 I’m currently learning **Flutter , React JS**
 
 <!-- - 👯 I’m looking to collaborate on [laravel](https://github.com/laravel) -->
