@@ -3,11 +3,8 @@
 
 - 🔭 I’m currently working on Frontend & PHP Backend developer (Laravel)
 - 🌱 I’m currently learning **Flutter , React JS**
-
 <!-- - 👯 I’m looking to collaborate on [laravel](https://github.com/laravel) -->
-
 - 💬 Ask me about **laravel**
-
 - 📫 How to reach me **dobanabil40@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
